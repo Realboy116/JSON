@@ -4,7 +4,7 @@
   "project": "Kate mobile"
   "version": "86 lite"
   "severity": "S1 (Blocker)"
-  "priority" "High"
+  "priority": "High"
   "environtment": "device" - "Asus K019"
                   "operating system" - "Android 5.0.1"
   "status": "открыт"
