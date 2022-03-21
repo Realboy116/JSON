@@ -9,7 +9,7 @@
                   "operating system - Android 5.0.1"
   "status": "открыт"
   "author": "Абдурайимов Шухрат"
-  "steps to reproduce" { 
+  "steps to reproduce": { 
                           "step1": "запустить приложение Kate mobile"
                           "step2": "изменить раскладку клавиатуры (язык) на экране ввода логина и пароля"
                         },
